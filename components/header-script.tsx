@@ -75,13 +75,7 @@ export default function HeaderScript({ content }: HeaderScriptProps) {
         />
       ))}
 
-      {/* 🟡 Script CartPanda */}
-      <Script
-        id="cartpanda-script"
-        strategy="afterInteractive"
-        src="https://assets.mycartpanda.com/cartx-ecomm-ui-assets/js/cpsales.js"
-      />
-                  {/* 🟢 SCRIPT DE TRACKING PRÓPRIO (UTMs + CLICK ID + N8N) */}
+      {/* 🟢 SCRIPT DE TRACKING PRÓPRIO (UTMs + CLICK ID + N8N) */}
       <Script
         id="custom-tracking"
         strategy="afterInteractive"
