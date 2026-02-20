@@ -16,7 +16,7 @@ export default function Page4({
     <>
       <div className="flex flex-col gap-8 text-base appear">
         <VideoCard
-          thumbnail="/thumbs/etapa3.webp"
+          thumbnail="/thumbs/thumb3.webp"
           thumbnailAlt="Video thumbnail"
           duration="4:44"
           title="I Spent $456,000 on a Real Squid Game!"

@@ -16,7 +16,7 @@ export default function Page2({
     <>
       <div className="flex flex-col gap-8 text-base appear">
         <VideoCard
-          thumbnail="/thumbs/etapa1.webp"
+          thumbnail="/thumbs/thumb1.webp"
           thumbnailAlt="Video thumbnail"
           duration="4:44"
           title="They Walked In and OWNED the Night"

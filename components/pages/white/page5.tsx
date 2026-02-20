@@ -16,7 +16,7 @@ export default function Page5({
     <>
       <div className="flex flex-col gap-8 text-base appear">
         <VideoCard
-          thumbnail="/thumbs/etapa4.webp"
+          thumbnail="/thumbs/thumb4.webp"
           thumbnailAlt="Video thumbnail"
           duration="4:44"
           title="5 Women Who Changed Pop Culture Forever"

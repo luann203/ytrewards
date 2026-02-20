@@ -16,7 +16,7 @@ export default function Page3({
     <>
       <div className="flex flex-col gap-8 text-base appear">
         <VideoCard
-          thumbnail="/thumbs/etapa2.webp"
+          thumbnail="/thumbs/thumb2.webp"
           thumbnailAlt="Video thumbnail"
           duration="7:04"
           title="From Zero to The Most Electrifying Man Alive"
