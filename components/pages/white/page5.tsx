@@ -19,7 +19,7 @@ export default function Page5({
           thumbnail="/thumbs/etapa4.webp"
           thumbnailAlt="Video thumbnail"
           duration="4:44"
-          title="Video title (edit here)"
+          title="5 Women Who Changed Pop Culture Forever"
           views="3.1 million views • 7 months ago"
           className="rounded-3xl border border-[#303030] shadow-lg p-6 sm:p-7 bg-[#181818] hover:bg-[#272727] transition-colors"
         />

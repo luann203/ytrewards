@@ -19,7 +19,7 @@ export default function Page2({
           thumbnail="/thumbs/etapa1.webp"
           thumbnailAlt="Video thumbnail"
           duration="4:44"
-          title="Video title (edit here)"
+          title="They Walked In and OWNED the Night"
           views="3.1 million views • 7 months ago"
           className="rounded-3xl border border-[#303030] shadow-lg p-6 sm:p-7 bg-[#181818] hover:bg-[#272727] transition-colors"
         />

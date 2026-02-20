@@ -18,9 +18,9 @@ export default function Page3({
         <VideoCard
           thumbnail="/thumbs/etapa2.webp"
           thumbnailAlt="Video thumbnail"
-          duration="4:44"
-          title="Video title (edit here)"
-          views="3.1 million views • 7 months ago"
+          duration="7:04"
+          title="From Zero to The Most Electrifying Man Alive"
+          views="3 million views • 4 years ago"
           className="rounded-3xl border border-[#303030] shadow-lg p-6 sm:p-7 bg-[#181818] hover:bg-[#272727] transition-colors"
         />
         <div className="flex flex-col gap-2 text-center">
