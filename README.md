@@ -51,3 +51,4 @@ Implementation details:
 - API route: `app/api/stripe/create-payment-intent/route.ts`
 - Component: `components/StripeCheckout.tsx` (vanilla Elements, inline style similar to Hotmart)
 - Demo page: `app/(open)/stripe/page.tsx`
+# Teste de conexão Vercel-GitHub
